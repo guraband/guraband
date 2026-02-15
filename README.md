@@ -3,6 +3,6 @@
 <img
   src="https://render.gitanimals.org/farms/guraband"
   width="850"
-  height="150"
+  height="250"
 />
 </a>
